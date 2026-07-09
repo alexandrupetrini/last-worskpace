@@ -1,0 +1,11 @@
+{
+    "shortcut-header": {
+        "type": "header",
+        "description": "Keyboard shortcut"
+    },
+    "shortcut-key": {
+        "type": "keybinding",
+        "description": "Go to last workspace",
+        "default": "<Super>w"
+    }
+}
