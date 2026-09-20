@@ -4,6 +4,6 @@
     "description": "Jump back to the previously active workspace with a keyboard shortcut.",
     "cinnamon-version": ["5.4", "6.0", "6.2", "6.4", "6.6"],
     "version": "1.0",
-    "url": "https://github.com/arjan/gnome-shell-go-to-last-workspace",
+    "url": "https://github.com/alexandrupetrini/last-worskpace/tree/main",
     "author": "cbalx"
 }
